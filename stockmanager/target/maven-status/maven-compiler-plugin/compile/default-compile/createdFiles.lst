@@ -1,7 +1,0 @@
-com/praveenramachandran/shopping/stockmanager/repositories/StockRepository.class
-com/praveenramachandran/shopping/stockmanager/StockManagerApplication.class
-com/praveenramachandran/shopping/stockmanager/exceptions/StockNotFoundException.class
-com/praveenramachandran/shopping/stockmanager/services/StockService.class
-com/praveenramachandran/shopping/stockmanager/config/DataGenerator.class
-com/praveenramachandran/shopping/stockmanager/resources/StockResource.class
-com/praveenramachandran/shopping/stockmanager/model/Stock.class
