@@ -1,0 +1,6 @@
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/productbrochure/src/main/java/com/praveenramachandran/shopping/productbrochure/model/Product.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/productbrochure/src/main/java/com/praveenramachandran/shopping/productbrochure/ProductServiceApplication.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/productbrochure/src/main/java/com/praveenramachandran/shopping/productbrochure/configuration/ProductServiceConfiguration.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/productbrochure/src/main/java/com/praveenramachandran/shopping/productbrochure/resources/ProductResource.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/productbrochure/src/main/java/com/praveenramachandran/shopping/productbrochure/services/ProductService.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/productbrochure/src/main/java/com/praveenramachandran/shopping/productbrochure/healthchecks/BasicHealthCheck.java
