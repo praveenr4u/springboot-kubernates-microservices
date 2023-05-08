@@ -1,0 +1,7 @@
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/stockmanager/src/main/java/com/praveenramachandran/shopping/stockmanager/config/DataGenerator.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/stockmanager/src/main/java/com/praveenramachandran/shopping/stockmanager/resources/StockResource.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/stockmanager/src/main/java/com/praveenramachandran/shopping/stockmanager/repositories/StockRepository.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/stockmanager/src/main/java/com/praveenramachandran/shopping/stockmanager/exceptions/StockNotFoundException.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/stockmanager/src/main/java/com/praveenramachandran/shopping/stockmanager/model/Stock.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/stockmanager/src/main/java/com/praveenramachandran/shopping/stockmanager/services/StockService.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/stockmanager/src/main/java/com/praveenramachandran/shopping/stockmanager/StockManagerApplication.java

@@ -1,0 +1,6 @@
+com/praveenramachandran/shopping/productbrochure/ProductServiceApplication.class
+com/praveenramachandran/shopping/productbrochure/resources/ProductResource.class
+com/praveenramachandran/shopping/productbrochure/model/Product.class
+com/praveenramachandran/shopping/productbrochure/services/ProductService.class
+com/praveenramachandran/shopping/productbrochure/healthchecks/BasicHealthCheck.class
+com/praveenramachandran/shopping/productbrochure/configuration/ProductServiceConfiguration.class

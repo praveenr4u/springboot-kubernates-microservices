@@ -1,0 +1,9 @@
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/showroom/src/main/java/com/praveenramachandran/shopping/showroom/resources/ProductResource.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/showroom/src/main/java/com/praveenramachandran/shopping/showroom/services/ProductService.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/showroom/src/main/java/com/praveenramachandran/shopping/showroom/model/Product.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/showroom/src/main/java/com/praveenramachandran/shopping/showroom/services/dto/ProductDTO.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/showroom/src/main/java/com/praveenramachandran/shopping/showroom/repo/StockRepo.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/showroom/src/main/java/com/praveenramachandran/shopping/showroom/ShowroomApplication.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/showroom/src/main/java/com/praveenramachandran/shopping/showroom/repo/ProductRepo.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/showroom/src/main/java/com/praveenramachandran/shopping/showroom/controllers/HomeController.java
+/Users/pramachandran/Documents/Self Learn/Kubernates/springboot-kubernates-microservices/showroom/src/main/java/com/praveenramachandran/shopping/showroom/services/dto/StockDTO.java
